@@ -610,7 +610,7 @@ strong{
   margin-bottom: 10px;
 }
 
-.package-card .card-price .reviews { font-size: var(--fs-5); }
+.package-card .card-price .reviews { font-size: var(--fs-3); }
 
 .package-card .card-rating {
   display: flex;
